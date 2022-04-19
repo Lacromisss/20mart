@@ -13,15 +13,7 @@ namespace ConsoleApp66
             
             
             string input;
-            Console.WriteLine("1.stadion elave et ");
-            Console.WriteLine("2.Stadionlari goster");
-            Console.WriteLine("3.istifadeci elave et");
-            Console.WriteLine("4.istifadecileri goster");
-            Console.WriteLine("5.reservasyalari goster");
-            Console.WriteLine("6.reservasyalari yarat");
-            Console.WriteLine("7.Verilmis Id li stadionlarin reservasyalarini goster");
-            Console.WriteLine("8.Verilmis Id li  Userin reservasyaalrini goster");
-            Console.WriteLine(" 9.Verilmis Id li  reservasyani sil");
+           
 
             do
             {
